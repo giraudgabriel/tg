@@ -14,6 +14,7 @@ computação entretanto nem tanto para cursos que tem uma necessidade do presenc
 muito mais realística de uma sala de aula e até aumentar o foco do aluno, levando-o a
 uma imersão.
 
+
 ## Proposta de Solução:
 
 - Um ambiente de realidade virtual que simule um ambiente de uma sala de aula e/ou um
