@@ -25,6 +25,7 @@ simultaneamente tentando ao máximo fazer a aula parecer como se fosse no presen
 - Neste sistema é possível o professor se cadastrar e criar uma sala de aula personalizada
 e adicionar seus alunos via um código de convite e/ou link onde será ambientizado uma sala de aula
 com um lousa e um projetor e a interatividade se daria por voz através de um outro veículo de comunicação.
+- Um sistema de compartilhamento audio-visual dentro da realidade virtual com sistema multimidia de interação.
 
 
 ## Referências
