@@ -1,8 +1,7 @@
 # Metodologia de pesquisa científica
 
 ## Problema: 
-- Dificuldade de transição de aulas práticas 
-presenciais para o ensino remoto no ensino superior
+- Dificuldade de transição de aulas presenciais para o ensino remoto no ensino superior
 
 ## Motivação:
 - Devido a pandemia as unidades de ensino superior tiveram de rever e mudar muitas
@@ -23,3 +22,11 @@ simultaneamente tentando ao máximo fazer a aula parecer como se fosse no presen
 - Neste sistema é possível o professor se cadastrar e criar uma sala de aula personalizada
 e adicionar seus alunos via um código de convite e/ou link onde será ambientizado uma sala de aula
 com um lousa e um projetor e a interatividade se daria por voz através de um outro veículo de comunicação.
+
+
+## Referências
+
+###  <a href="http://www.usp.br/cje/babel/?p=168" >Desafios do ensino remoto na pandemia</a>
+### <a href="https://www.brasildefato.com.br/2020/05/04/professores-pais-e-alunos-apontam-dificuldades-e-limitacoes-no-ensino-a-distancia" >Professores, pais e alunos apontam dificuldades e limitações do ensino a distância</a>
+### <a href="https://www.correiobraziliense.com.br/app/noticia/eu-estudante/ensino_educacaobasica/2020/07/02/interna-educacaobasica-2019,868923/ensino-remoto-emergencial-na-rede-publica-traz-muitos-desafios.shtml" >Ensino remoto emergencial na rede pública traz muitos desafios</a>
+### <a href="https://cangurunews.com.br/ensino-remoto/">Crianças cansadas e pais estressados: como lidar com o ensino remoto prolongado?</a>
