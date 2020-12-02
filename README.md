@@ -9,10 +9,12 @@ coisas para não pararem com as aulas, então foi necessário uma inovação e m
 nos formato das aulas.
 - Entretanto essa mudança foi bem para algumas unidades com dispositivos e acesso a internet mais facilitados, mas a grande maioria tem uma necessidade do presencial.
 - Ferramenta de fácil acesso visto que é multiplataforma: celular, computador, tablet, notebook, sendo a única dependência o acesso a internet.
-
 - Além de que um ambiente virtual que simula uma sala de aula pode passar uma sensação
 muito mais realística de uma sala de aula e até aumentar o foco do aluno, levando-o a
 uma imersão.
+- Um dos grandes pontos que tornou o ensino remoto massante principalmente para pais e crianças
+foi que foram diminuidos os momentos de descontração das crianças visto que não existe um espaço
+para brincadeira, como é tratado na matéria "Desafios do ensino remoto na pandemia" e "Crianças cansadas e pais estressados: como lidar com o ensino remoto prolongado?".
 
 
 ## Proposta de Solução:
