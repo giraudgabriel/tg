@@ -4,11 +4,12 @@
 - Dificuldade de transição de aulas presenciais para o ensino remoto no ensino público
 
 ## Motivação:
-- Devido a pandemia as unidades de ensino superior tiveram de rever e mudar muitas
+- Devido a pandemia as unidades de ensino público tiveram de rever e mudar muitas
 coisas para não pararem com as aulas, então foi necessário uma inovação e mudança
 nos formato das aulas.
-- Entretanto essa mudança foi bem para algumas áreas principalmente como áreas da
-computação entretanto nem tanto para cursos que tem uma necessidade do presencial.
+- Entretanto essa mudança foi bem para algumas unidades com dispositivos e acesso a internet mais facilitados, mas a grande maioria tem uma necessidade do presencial.
+- Ferramenta de fácil acesso visto que é multiplataforma: celular, computador, tablet, notebook, sendo a única dependência o acesso a internet.
+
 - Além de que um ambiente virtual que simula uma sala de aula pode passar uma sensação
 muito mais realística de uma sala de aula e até aumentar o foco do aluno, levando-o a
 uma imersão.
