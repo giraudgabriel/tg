@@ -1,7 +1,7 @@
 # Metodologia de pesquisa científica
 
 ## Problema: 
-- Dificuldade de transição de aulas presenciais para o ensino remoto no ensino público
+- Dificuldade de transição de aulas presenciais para o ensino remoto de uma maneira interativa no ensino público 
 
 ## Motivação:
 - Devido a pandemia as unidades de ensino público tiveram de rever e mudar muitas
