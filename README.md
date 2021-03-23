@@ -1,4 +1,4 @@
-# Metodologia de pesquisa científica
+# TG
 
 ## Problema: 
 - Dificuldade de transição de aulas presenciais para o ensino remoto de uma maneira interativa no ensino público 
