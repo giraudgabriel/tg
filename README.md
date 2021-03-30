@@ -1,7 +1,7 @@
 # TG
 
 ## Problema: 
-- Dificuldade de transição de aulas presenciais para o ensino remoto de uma maneira interativa no ensino público 
+- Realidade Virtual como auxílio na transição das aulas presenciais para o ensino remoto
 
 ## Motivação:
 - Devido a pandemia as unidades de ensino público tiveram de rever e mudar muitas
