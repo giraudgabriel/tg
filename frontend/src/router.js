@@ -7,7 +7,7 @@ import { ConfigProvider } from "antd";
 function RouterComponent() {
   return (
     <Router history={history}>
-      <ConfigProvider form={{ validateMessages }}>
+      <ConfigProvider>
         <Switch>
           {routes.map(({ path, component }) => (
             <Route key={path} path={path} component={component} exact />
